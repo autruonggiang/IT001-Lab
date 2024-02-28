@@ -1,2 +1,2 @@
-# IT001-Lab
-Introduction to Programming
+# IT001 - Introduction to Programming
+Term 1 (2021-2022).

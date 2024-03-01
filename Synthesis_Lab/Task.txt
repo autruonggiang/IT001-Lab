@@ -1,0 +1,25 @@
+Bài 1: Viết chương trình xử lý các thao tác sau trên mảng 1 chiều số nguyên (sử dụng lập trình hàm)
+
+a) Phát sinh mảng 1 chiều gồm n phần tử (n nhập vào từ bàn phím). Giá trị trong khoảng từ 10 - 20
+
+b) Xuất các phần tử trong mảng
+
+c) Tìm giá trị lớn nhất trong mảng, và xuất giá trị ra màn hình.
+
+d) Tìm vị trí phần tử nhỏ nhất trong mảng.
+
+e*) Kiểm tra xem mảng có phải là mảng tăng dần hay không? 
+
+f*) Tìm số nguyên tố cuối cùng trong mảng. Nếu mảng không có số nguyên tố thì trả về -1
+
+Bài 2: Viết chương trình xử lý các thao tác sau trên mảng 2 chiều số nguyên (sử dụng lập trình hàm)
+
+a) Phát sinh mảng 2 chiều gồm m x n phần tử (m và n nhập vào từ bàn phím).  Giá trị phát sinh trong khoảng từ 10-20
+
+b) Xuất ra mảng 2 chiều dạng ma  trận.
+
+c) Tính tổng các phần tử trên đường chéo chính.
+
+d*) Tính tổng các phần tử nửa trên đường chéo chính
+
+Nộp bài: Các bạn nộp 2 file .cpp, đặt tên là: MSSV_HoTen_BTTH1.cpp và MSSV_HoTen_BTTH2.cpp
